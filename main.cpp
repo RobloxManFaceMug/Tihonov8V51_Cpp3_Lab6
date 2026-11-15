@@ -25,5 +25,5 @@ void GUICreateDoc(FileManager Manager) {
 }
 
 int main(int, char**){
-    std::cout << "among shapes";
+
 }
